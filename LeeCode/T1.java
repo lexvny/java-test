@@ -12,5 +12,5 @@ package LeeCode;
             }
             }
         return result;
-        }
+    }
     }
